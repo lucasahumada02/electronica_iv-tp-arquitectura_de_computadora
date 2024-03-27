@@ -1,4 +1,4 @@
-# Electrónica IV - TP - Microprocesadores - Arquitectura
+# Electrónica IV - TP - Arquitectura de Computadora
 
 Este trabajo práctico debe realizarse en modalidad *individual*.
 
