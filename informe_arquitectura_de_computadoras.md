@@ -2,6 +2,8 @@
 
 Electronica IV - TP - Arquitectura de Computadora
 
+> Aquí tu nombre completo
+
 ## Introducción
 
 > Fundamentando con citas bibliográficas:
