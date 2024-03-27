@@ -1,6 +1,6 @@
-# Investigación Sobre Arquitectura de Computadoras
+# Informe de Investigación Sobre Arquitectura de Computadoras
 
-Electronica IV - TP - Procesadores y Microcontroladores
+Electronica IV - TP - Arquitectura de Computadora
 
 ## Introducción
 
