@@ -14,13 +14,13 @@ Al completar este trabajo habras estudiado y elaborado tus propias conclusiones 
 4. ¿De qué manera se puede clasificar una arquitectura de computadora?
 5. ¿Qué es la arquitectura ARMv7M?
 
-## 3. Metodología de trabajo
+## 2. Metodología de trabajo
 
 Realizarás un relevamiento de la literatura en materia de arquitectura de computadoras y escribiras un informe con tus resultados, trabajando sobre la plantilla provista `informe_arquitectura_de_computadoras.md`. En tu investigación puedes consultar libros en la biblioteca y en eLibro, estándares, artículos científicos, sitios web, videos en línea, material de cursos de distintas universidades, documentación de fabricantes, publicaciones de fabricantes, etc. Ten en cuenta la fiabilidad de las fuentes que consultas y usa el sentido común.
 
 Para trabajar con mayor libertad puedes ir guardando cada cambio que hagas en tu repositorio git usando mensajes de *commit* descriptivos de lo que hiciste. Luego puedes borrar o modificar drásticamente el manuscrito sin perder tu trabajo anterior (pues siempre puedes verlo en el historial).
 
-## 4. Calificación
+## 3. Calificación
 
 La calificación de este trabajo se realizará según los siguientes criterios:
 
