@@ -2,7 +2,7 @@
 
 Electronica IV - TP - Arquitectura de Computadora
 
-> Aquí tu nombre completo
+Lucas Ahumada Checa Casquero.
 
 ## Introducción
 
