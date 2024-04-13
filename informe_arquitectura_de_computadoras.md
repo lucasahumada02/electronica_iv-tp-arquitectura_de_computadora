@@ -6,7 +6,7 @@ Lucas Ahumada Checa Casquero.
 
 ## Introducción
 
--Segun William Stallings en "Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016) define una computadora de la siguiente manera:
+- Segun William Stallings en "Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016) define una computadora de la siguiente manera:
   Una computadora es una máquina electrónica que opera bajo el control de un conjunto de instrucciones almacenadas llamado programa y que recibe datos, procesa los datos según las instrucciones especificadas y proporciona los resultados como información.
 - Siguiendo con la misma bibliografia citada, se define arquitectura de computadora de la siguiente manera:
   La arquitectura de computadoras es la estructura de una computadora, que abarca todo, desde la disposición de los diversos componentes de hardware hasta los detalles específicos de las operaciones del sistema.
