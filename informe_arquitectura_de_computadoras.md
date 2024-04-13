@@ -2,15 +2,15 @@
 
 Electronica IV - TP - Arquitectura de Computadora
 
-Lucas Ahumada Checa Casquero.
+>Lucas Ahumada Checa Casquero.
 
 ## Introducción
 
-- Segun William Stallings en "Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016) define una computadora de la siguiente manera:
+>- Segun William Stallings en "Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016) define una computadora de la siguiente manera:
   Una computadora es una máquina electrónica que opera bajo el control de un conjunto de instrucciones almacenadas llamado programa y que recibe datos, procesa los datos según las instrucciones especificadas y proporciona los resultados como información.
-- Siguiendo con la misma bibliografia citada, se define arquitectura de computadora de la siguiente manera:
+>- Siguiendo con la misma bibliografia citada, se define arquitectura de computadora de la siguiente manera:
   La arquitectura de computadoras es la estructura de una computadora, que abarca todo, desde la disposición de los diversos componentes de hardware hasta los detalles específicos de las operaciones del sistema.
-- La microarquitectura esta referida en los complicados detalles del diseño interno de los componentes de hardware, como los procesadores, describiendo cómo se materializa la arquitectura en un nivel más detallado. Como lo expresan Patterson y Hennessy, "La microarquitectura se ocupa de los detalles del diseño del procesador" (Patterson & Hennessy, "Computer Organization and Design: The Hardware/Software Interface", 5ta edición, 2013).
+>- La microarquitectura esta referida en los complicados detalles del diseño interno de los componentes de hardware, como los procesadores, describiendo cómo se materializa la arquitectura en un nivel más detallado. Como lo expresan Patterson y Hennessy, "La microarquitectura se ocupa de los detalles del diseño del procesador" (Patterson & Hennessy, "Computer Organization and Design: The Hardware/Software Interface", 5ta edición, 2013).
 Despues, la arquitectura de computadoras abarca tanto el hardware como el software en su diseño conceptual y estructural fundamental, definiendo la estructura y el comportamiento del sistema informático. Tanenbaum destaca este punto al afirmar que "La arquitectura de computadoras es el diseño conceptual y estructural fundamental de un sistema informático" (Tanenbaum, "Structured Computer Organization", 6ta edición, 2012).
 Por último, el software comprende el conjunto de instrucciones, programas y datos que dirigen las operaciones de la computadora, transformando las instrucciones en acciones automatizadas. Stallings lo describe de esta manera: "El software es una secuencia de instrucciones que se ejecutan en una computadora" (Stallings, "Computer Organization and Architecture: Designing for Performance", 10ma edición, 2016).
 
