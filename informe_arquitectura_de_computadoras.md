@@ -51,15 +51,15 @@ Por último, el software comprende el conjunto de instrucciones, programas y dat
 
 ## Conclusiones
 
->-Una arquitectura de computadoras es el conjunto de principios y estructuras que define cómo están organizados y funcionan los componentes de un sistema informático. Es como el plano de construcción que guía la construcción y operación de una computadora.
->-En la descomposición de un sistema de cómputo en capas, la arquitectura ocupa una posición central y fundamental. Es el cimiento sobre el cual se construyen todas las demás capas, desde el hardware hasta el software de aplicación.
->-La función principal de una arquitectura de computadora es proporcionar el marco conceptual y estructural sobre el cual se diseñan, construyen y operan los sistemas informáticos. Define cómo se comunican los componentes, cómo se ejecutan las instrucciones y cómo se gestionan los recursos del sistema.
->-Al elegir una arquitectura de computadora, sería importante considerar factores como el rendimiento, la eficiencia energética, la escalabilidad y la compatibilidad con el software existente. También tendría en cuenta las necesidades específicas de la aplicación y las tendencias tecnológicas futuras para asegurarme de seleccionar la arquitectura más adecuada para mis necesidades y objetivos.
+>- Una arquitectura de computadoras es el conjunto de principios y estructuras que define cómo están organizados y funcionan los componentes de un sistema informático. Es como el plano de construcción que guía la construcción y operación de una computadora.
+>- En la descomposición de un sistema de cómputo en capas, la arquitectura ocupa una posición central y fundamental. Es el cimiento sobre el cual se construyen todas las demás capas, desde el hardware hasta el software de aplicación.
+>- La función principal de una arquitectura de computadora es proporcionar el marco conceptual y estructural sobre el cual se diseñan, construyen y operan los sistemas informáticos. Define cómo se comunican los componentes, cómo se ejecutan las instrucciones y cómo se gestionan los recursos del sistema.
+>- Al elegir una arquitectura de computadora, sería importante considerar factores como el rendimiento, la eficiencia energética, la escalabilidad y la compatibilidad con el software existente. También tendría en cuenta las necesidades específicas de la aplicación y las tendencias tecnológicas futuras para asegurarme de seleccionar la arquitectura más adecuada para mis necesidades y objetivos.
 
 
 
 ## Bibliografía
 
->-"Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016).  William Stallings.
->-"Computer Organization and Design: The Hardware/Software Interface", (5ta edición, 2013). Patterson & Hennessy.
+>- "Computer Organization and Architecture: Designing for Perfomance"(10ma edición, 2016).  William Stallings.
+>- "Computer Organization and Design: The Hardware/Software Interface", (5ta edición, 2013). Patterson & Hennessy.
 >- "Structured Computer Organization", (6ta edición, 2012). Tanenbaum.
